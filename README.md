@@ -122,7 +122,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For inquiries or suggestions, feel free to reach out:
  
 - **Author**: Sanjay J | Miruthula Sk | Rohith
-- **Email**: [rohithselvan10@gmail.com](mailto:rohithselvan10@gmail.com)
+- **Email**: miruthu0304@gmail.com
 
 ---
 
